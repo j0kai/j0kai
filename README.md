@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @j0kai
-- 👀 I’m interested in Full-stack Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, C#, and SQL
+- 👀 I’m interested in Back End Software Developement and Game Development
+- 🌱 I’m currently learning C++, C#, SQL, HTML, CSS, and JS.
