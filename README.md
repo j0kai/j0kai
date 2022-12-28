@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @j0kai
-- 👀 I’m interested in Back End Software Developement and Game Development
-- 🌱 I’m currently learning C++, C#, SQL, HTML, CSS, and JS.
+- 👀 I’m interested in Game Developement
+- 🌱 I’m currently learning C++, OpenGL, and 3D Modelling.
