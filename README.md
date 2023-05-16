@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @j0kai
-- 👀 I want to go into career in Game Engine Developement
-- 🌱 I’m currently learning more about C++ and Graphical Programming with OpenGL as I build a game engine. In the future as a part of this project, I plan to focus on learning scripting with languages such as Python, C#, or Lua; as well as diving into other graphics APIs such as Vulkan and DirectX. I would also like to learn some 3D modelling with Blender at some point.
+- 👀 
+- 🌱 
