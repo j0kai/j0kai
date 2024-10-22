@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @j0kai
-- 👀 
-- 🌱 
+- 👋 Hi, I’m Kyle Jones aka @j0kai
